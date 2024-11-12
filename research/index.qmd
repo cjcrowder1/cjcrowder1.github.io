@@ -1,0 +1,7 @@
+---
+title: Research
+listing: 
+  id: papers
+  contents: papers.yaml
+  template: papers.ejs
+---

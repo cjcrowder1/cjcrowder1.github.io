@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Caroline J. Crowder"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About Me
+      - href: CV_upd.docx
+        text: CV
+format:
+  html:
+    theme: 
+      light: morph
+      dark: solar
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+

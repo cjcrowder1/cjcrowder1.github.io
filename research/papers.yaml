@@ -1,0 +1,37 @@
+- title: "Patterns in Explanations of Organic Chemistry Reaction Mechanisms: A Text Analysis by Level of Explanation Sophistication"
+    short: "2"
+    author:
+      - Caroline J. Crowder
+      - Jeffrey R. Raker
+    date: 2024-11-06
+    year: 2024
+    journal: "<i> Journal of Chemical Education </i>"
+    abstract: Learning the language of organic chemistry, i.e., how to describe reaction mechanisms, is crucial to success in any postsecondary organic chemistry course. However, it is well-known that learners struggle with reasoning about and explaining reaction mechanisms beyond surface-level features. Multiple studies have sought to aid learners in developing these skills. Investigating the connections that learners make regarding reaction mechanisms through their explanations provides insight into how we can better promote the development of learners’ reasoning skills. In this study, we evaluate 20,000+ learner explanations of 90 reaction mechanisms. We use network analysis to explore patterns in keywords used by learners and visualize the word connections between them, based on their co-occurrence, within our entire data set, by reaction type, and by levels of explanation sophistication. Our results indicate that learners consistently rely on explicit surface-level features in their explanations with expected contextual variance by reaction type. This trend persists across the levels of sophistication, however, with improvements in the use of vocabulary and coherency as sophistication progresses. We hypothesize that this is evidence of learners actively working toward constructing understanding as they experiment with and refine their vocabulary until they are able to pare down their explanations in a coherent manner. This work offers insights for instructors seeking to promote the development of learners’ reasoning skills and for researchers interested in the development of machine-learning models to assist in evaluating learner explanations of reaction mechanisms.
+    pubopen: https://doi.org/10.1021/acs.jchemed.4c01042
+    categories: 
+     - Organic Chemistry
+     - Reaction Mechanisms
+     - Network Analysis
+     - Explanations
+    
+- title: "Impact of Prompt Cueing on Level of Explanation Sophistication for Organic Reaction Mechanisms"
+  type: "Published"
+  short: "1"
+  author:
+    - Caroline J. Crowder
+    - Brandon J. Yik
+    - Stephanie J.H. Frost
+    - Daniel Cruz-Ramírez de Arellano
+    - Jeffrey R. Raker
+  date: 2024-01-10
+  year: 2024
+  journal: "<i> Journal of Chemical Education </i>"
+  abstract: "Burnout is a pervasive problem in libraries; however, little empirical evidence exists to demonstrate burnout's extent and to assist in identifying evidence-based solutions. As far as quantitative analysis of burnout is concerned, the Maslach Burnout Inventory (MBI) has been a primary tool for measuring burnout among human services workers. However, the tool is proprietary and can be cost-prohibitive for large samples or small/non-existent budgets. As we consider the measurement of burnout as a field, open tools are better aligned with the values of librarianship, and free tools are better aligned with the resources available for conducting research or internal assessments. The Copenhagen Burnout Inventory (CBI) is a non-commercial, free, and easy-to-administer tool for measuring burnout across three dimensions: personal, work-related, and client-related. The CBI presents a cost-effective alternative to the MBI which may be particularly enticing for academic library leaders and researchers. This study assesses the psychometric properties, including factor structure and scale reliability, to contribute to demonstrating construct validity of the CBI among academic librarians in the United Studies using a probability sample stratified by institutional Carnegie classifications and geographic region.<br><br>Confirmatory Factory Analysis (CFA) is used the examine the factor structure and model fit of five models for the CBI: a correlated three factors model, a correlated two factors model (using work-related and client-related burnout), and three single factor models for each of the three independent subscales (personal, work-related, and client-related burnout). The factorial validity and model fit for the five models demonstrated in the study are reasonable, suggesting that the items in the three scales are successfully measuring the latent constructs (personal burnout, work-related burnout, and client-related burnout), which contributes to construct validity. The expected relationship between the observed variables (the items in the measurement model) and the latent constructs is supported by the CFA analyses. While other examinations of validity, including other aspects of construct validity, should also be examined, the findings support the use of the CBI for measurement of burnout among academic librarians."
+  #pdf:
+  pubopen: https://doi.org/10.1021/acs.jchemed.3c00710
+  categories:
+    - Burnout
+    - Librarian Worklife
+    - 2024
+
+    

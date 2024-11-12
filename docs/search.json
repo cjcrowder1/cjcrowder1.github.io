@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Caroline J. Crowder",
+    "section": "",
+    "text": "Tampa, FL\n  \n  \n      Email\n  \n  \n      Twitter\n  \n  \n      LinkedIn\n  \n  \n      Github\n  \n  \n      Google Scholar\n  \n  \n      ORCiD\n  \n\n  \n  \n\nCaroline J. Crowder is a 3rd year PhD student studying Chemistry Education Research in the Raker Research Group at the University of South Florida.\n\nRecent Publications\n\n\n\n\n\nCrowder, C. J. & Raker, J. R. Patterns in Explanations of Organic Chemistry Reaction Mechanisms: A Text Analysis by Level of Explanation Sophistication. Journal of Chemical Education, 2024. DOI: 10.1021/acs.jchemed.4c01042.\nRead the full publication\n\n\n\nCrowder, C. J., Yik, B. J., Frost, S. J. H., Cruz-Ramírez de Arellano, D., & Raker, J. R. Impact of Prompt Cueing on Level of Explanation Sophistication for Organic Reaction Mechanisms. Journal of Chemical Education, 2024, 101, 2, 398-410. DOI: 10.1021/acs.jchemed.3c00710\nRead the full publication\n\n\n\nIf want to stay up-to-date on my work, follow me on Google Scholar"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Writing things about me here\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Patterns in Explanations of Organic Chemistry Reaction Mechanisms: A Text Analysis by Level of Explanation Sophistication\n      \n        \n          2024. Caroline J. Crowder, Jeffrey R. Raker.  Journal of Chemical Education .\n        \n     \n        \n           Abstract\n        \n        \n          \n            Learning the language of organic chemistry, i.e., how to describe reaction mechanisms, is crucial to success in any postsecondary organic chemistry course. However, it is well-known that learners struggle with reasoning about and explaining reaction mechanisms beyond surface-level features. Multiple studies have sought to aid learners in developing these skills. Investigating the connections that learners make regarding reaction mechanisms through their explanations provides insight into how we can better promote the development of learners’ reasoning skills. In this study, we evaluate 20,000+ learner explanations of 90 reaction mechanisms. We use network analysis to explore patterns in keywords used by learners and visualize the word connections between them, based on their co-occurrence, within our entire data set, by reaction type, and by levels of explanation sophistication. Our results indicate that learners consistently rely on explicit surface-level features in their explanations with expected contextual variance by reaction type. This trend persists across the levels of sophistication, however, with improvements in the use of vocabulary and coherency as sophistication progresses. We hypothesize that this is evidence of learners actively working toward constructing understanding as they experiment with and refine their vocabulary until they are able to pare down their explanations in a coherent manner. This work offers insights for instructors seeking to promote the development of learners’ reasoning skills and for researchers interested in the development of machine-learning models to assist in evaluating learner explanations of reaction mechanisms.\n          \n        \n      \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "cv",
+    "section": "",
+    "text": "Education 1\nEducation 2"
+  },
+  {
+    "objectID": "cv/index.html#fa-graduation-cap-sizexl-education",
+    "href": "cv/index.html#fa-graduation-cap-sizexl-education",
+    "title": "cv",
+    "section": "",
+    "text": "Education 1\nEducation 2"
+  },
+  {
+    "objectID": "cv/index.html#peer-reviewed-journal-articles",
+    "href": "cv/index.html#peer-reviewed-journal-articles",
+    "title": "cv",
+    "section": "Peer-reviewed journal articles",
+    "text": "Peer-reviewed journal articles\n\n\n\n\n\n    \n      This is the title of my article\n      \n        \n          2024. Caroline J. Crowder, Jeffrey R. Raker.  Journal Title.\n        \n     \n        \n           Abstract\n        \n        \n          \n            This is the asbtract\n          \n        \n      \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "cv",
+    "section": "",
+    "text": "Education 1\nEducation 2"
+  },
+  {
+    "objectID": "research/steph_index.html",
+    "href": "research/steph_index.html",
+    "title": "Stephanie J. H. Frost",
+    "section": "",
+    "text": "Google Scholar\n  \n  \n    \n     ORCiD\n  \n  \n      LinkedIn\n  \n  \n    \n     GitHub\n  \n\n  \n  \nStephanie Frost is a graduate student at the University of South Florida studying Chemistry Education Research under the direction of Jeff Raker.\n\nRecent Publications\n\n\n\n\n\nFeelings of Shame in a First Semester Organic Chemistry Course: Associations between Shame and Examination Performance for Multiple Learner Groups\nRead the full publication\n\n\n\nMotivation Differences in First-Semester Organic Chemistry: A Comparison between First-Time-in-College Students and Transfer Students\nRead the full publication"
+  }
+]

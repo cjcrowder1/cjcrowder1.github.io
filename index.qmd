@@ -1,0 +1,43 @@
+---
+title: "Caroline J. Crowder"
+image: IMG_16562.jpg
+about: 
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - text: "{{< fa location-dot size=xl >}} Tampa, FL"
+    - text: "{{< fa envelope-square size=xl >}} Email"
+      href: mailto:crowderc@usf.edu
+    - text: "{{< fa brands twitter size=xl >}} Twitter"
+      href: https://twitter.com/CarolineCrowde7
+    - text: "{{< fa brands linkedin size=xl >}} LinkedIn"
+      href: https://www.linkedin.com/in/crowder-c/
+    - text: "{{< fa brands github size=xl >}} Github"
+      href: https://github.com/cjcrowder1
+    - text: "{{< ai google-scholar size=xl >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=6RwaVhMAAAAJ&hl=en
+    - text: "{{< ai orcid size=xl >}} ORCiD"
+      href: https://orcid.org/0000-0001-6745-3088
+---
+
+::: {#hero-heading}
+::: {style="font-size: 150%;"}
+Caroline J. Crowder is a 3rd year PhD student studying Chemistry Education Research in the Raker Research Group at the University of South Florida.
+
+<h2 style="text-align: center;">Recent Publications</h2>
+
+::: {layout-ncol=2}
+![Patterns in Explanations of Organic Chemistry Reaction Mechanisms: A Text Analysis by Level of Explanation Sophistication](Graphical_Abstract.png)  
+  **Crowder, C. J. & Raker, J. R. Patterns in Explanations of Organic Chemistry Reaction Mechanisms: A Text Analysis by Level of Explanation Sophistication. Journal of Chemical Education, 2024. DOI: 10.1021/acs.jchemed.4c01042.**  
+  <a href="https://pubs.acs.org/doi/full/10.1021/acs.jchemed.4c01042">Read the full publication</a>
+
+![Impact of Prompt Cueing on Level of Explanation Sophistication for Organic Reaction Mechanisms](Assessment_Prompts_Graphical_Abstract.png)  
+  **Crowder, C. J., Yik, B. J., Frost, S. J. H., Cruz-Ramírez de Arellano, D., & Raker, J. R. Impact of Prompt Cueing on Level of Explanation Sophistication for Organic Reaction Mechanisms. Journal of Chemical Education, 2024, 101, 2, 398-410. DOI: 10.1021/acs.jchemed.3c00710**  
+  <a href="https://pubs.acs.org/doi/full/10.1021/acs.jchemed.3c00710">Read the full publication</a>
+:::
+
+If want to stay up-to-date on my work, follow me on Google Scholar
+:::
+
+:::

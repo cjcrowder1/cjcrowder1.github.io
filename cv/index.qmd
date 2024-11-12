@@ -1,0 +1,17 @@
+---
+title: cv
+listing: 
+  id: papers
+  contents: ../research/papers.yaml
+  template: ../research/papers.ejs
+---
+
+## Education
+
+- Education 1
+- Education 2
+
+## Peer-reviewed journal articles
+
+::: {#papers}
+:::
